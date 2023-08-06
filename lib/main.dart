@@ -78,7 +78,7 @@ class MyApp extends StatelessWidget {
                       color: Color.fromARGB(255, 2, 22, 32),
                       fontWeight: FontWeight.bold,
                       letterSpacing: 1.0,
-                      fontSize: 20.0),
+                      fontSize: 21.0),
                     ),
                 )
               ),
